@@ -1,0 +1,10 @@
+github.com/Go-Master-Code/belajar v0.0.0-20240709095252-3263ee1def8e h1:MYduvo/7TZCwIevbVMhH+GM+5mIsQuPns8sCoKFS/iU=
+github.com/Go-Master-Code/belajar v0.0.0-20240709095252-3263ee1def8e/go.mod h1:QVQnA+2AjMy6LKJNxLA2cYo6E67zjymGnYofIZYO7iM=
+github.com/Go-Master-Code/modul v1.0.0 h1:NvOjKvrzvMxsot6nGDP4s6PKZ4Vd7ixijV6B8MtPgWE=
+github.com/Go-Master-Code/modul v1.0.0/go.mod h1:FdaBDMCkrl3yo2VLCdH5ZAP/J4JIH8IkcvzFXFfXrn0=
+github.com/Go-Master-Code/repos v0.0.0-20240712102831-e3ddfa1599a1 h1:QS7mCOKVb2WkY4G9getmMMw+EbkNJg0P34eR/2GlI8Y=
+github.com/Go-Master-Code/repos v0.0.0-20240712102831-e3ddfa1599a1/go.mod h1:rTF6ftyvxgS1tUawUh+wU7kw48IglqYQQH9V8RImm1E=
+github.com/Go-Master-Code/repos v1.5.0 h1:CprGWSyXwm+U54ncC1z/aK2rKOFoEsUYx/z4Qsk2T7I=
+github.com/Go-Master-Code/repos v1.5.0/go.mod h1:rTF6ftyvxgS1tUawUh+wU7kw48IglqYQQH9V8RImm1E=
+github.com/Go-Master-Code/repos/v2 v2.0.0 h1:5anjWeSzXDWf58nOSv1HQqctWkwZec/NRvrrOIFXv+0=
+github.com/Go-Master-Code/repos/v2 v2.0.0/go.mod h1:cyvKQRCogwZWCHFfPZt6NNAH7JTpR6Ppy5KE5MGnqqI=
